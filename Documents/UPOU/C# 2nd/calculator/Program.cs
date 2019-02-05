@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace calculator
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("I'm Kate- I'm a coder :)");
+            Console.WriteLine("     /|");
+            Console.WriteLine("    / |");
+            Console.WriteLine("   /  |");
+            Console.WriteLine("  /   |");
+            Console.WriteLine(" /    |");
+            Console.WriteLine("/_____|");
+
+
+Console.Write("Enter num1: ");
+double num1 = Convert.ToDouble(Console.ReadLine());
+
+Console.Write("Enter operator: ");
+string op = Console.ReadLine();
+
+Console.Write("Enter num2: ");
+double num2 = Convert.ToDouble(Console.ReadLine());
+
+if (op == "+"){
+     Console.WriteLine(num1 + num2);
+} else if (op == "-"){
+     Console.WriteLine(num1 - num2);
+} else if (op == "/"){
+     Console.WriteLine(num1 / num2);
+} else if (op == "*"){
+     Console.WriteLine(num1 * num2);
+} else {
+     Console.WriteLine("Invalid Operator");
+}
+        }
+    }
+}

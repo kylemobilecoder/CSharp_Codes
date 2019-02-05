@@ -1,0 +1,11 @@
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/bin/Debug/netcoreapp2.2/calculator.deps.json
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/bin/Debug/netcoreapp2.2/calculator.runtimeconfig.json
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/bin/Debug/netcoreapp2.2/calculator.runtimeconfig.dev.json
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/bin/Debug/netcoreapp2.2/calculator.dll
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/bin/Debug/netcoreapp2.2/calculator.pdb
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/obj/Debug/netcoreapp2.2/calculator.csprojAssemblyReference.cache
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/obj/Debug/netcoreapp2.2/calculator.csproj.CoreCompileInputs.cache
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/obj/Debug/netcoreapp2.2/calculator.AssemblyInfoInputs.cache
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/obj/Debug/netcoreapp2.2/calculator.AssemblyInfo.cs
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/obj/Debug/netcoreapp2.2/calculator.dll
+/Users/katrinacoloso/Documents/UPOU/C# 2nd/calculator/obj/Debug/netcoreapp2.2/calculator.pdb
